@@ -1,0 +1,12 @@
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll

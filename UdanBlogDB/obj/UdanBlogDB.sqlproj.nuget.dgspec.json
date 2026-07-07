@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\ITS152L_FOPM01_3T2526\\LE2\\UdanBlogDB\\UdanBlogDB.sqlproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\ITS152L_FOPM01_3T2526\\LE2\\UdanBlogDB\\UdanBlogDB.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\ITS152L_FOPM01_3T2526\\LE2\\UdanBlogDB\\UdanBlogDB.sqlproj",
+        "projectName": "UdanBlogDB",
+        "projectPath": "E:\\Projects\\ITS152L_FOPM01_3T2526\\LE2\\UdanBlogDB\\UdanBlogDB.sqlproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\ITS152L_FOPM01_3T2526\\LE2\\UdanBlogDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "framework": "netstandard2.0",
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "framework": "netstandard2.0",
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

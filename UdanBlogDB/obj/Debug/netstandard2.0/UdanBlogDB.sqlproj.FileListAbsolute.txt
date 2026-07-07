@@ -1,0 +1,4 @@
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\UdanBlogDB\bin\Debug\netstandard2.0\UdanBlogDB.deps.json
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\UdanBlogDB\bin\Debug\netstandard2.0\UdanBlogDB.dacpac
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\UdanBlogDB\obj\Debug\netstandard2.0\UdanBlogDB.sqlproj.AssemblyReference.cache
+E:\Projects\ITS152L_FOPM01_3T2526\LE2\UdanBlogDB\obj\Debug\netstandard2.0\UdanBlogDB.dacpac
